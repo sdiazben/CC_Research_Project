@@ -16,7 +16,7 @@ By: Buse Özer and Sara Díaz
 
 ### Products and Services
 
-<p align="center"><img src="./images/AZservices.png"/></p>
+<p align="center"><img src="./images/AZservices.jpg"/></p>
  
 ## Table of Contents  
 [Headers](#headers)  
