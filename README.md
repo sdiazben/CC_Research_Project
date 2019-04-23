@@ -29,6 +29,15 @@ In general it divides its services in into two main groups - infrastructure and 
 <p align="center"><img src="./images/ServicesSchema.png"/></p>
 
 The platform services are also supported by Security and Management services as well as a they can be deployed on hybrid cloud services (public and private clouds).
+
+## Amazon Web Services (AWS)
+
+<p align="justify">  Amazon Web Services (AWS) is a cloud service platform, which provides services in different domains such as compute, storage, delivery and other functionality which help business to scale and grow. 
+ 
+AWS allows users to use different variety of services to create and deploy applications in the cloud platform. These services are designed in such a way that they work with each other and produce a scalable and efficient outcome. AWS was launched in 2006 and has been one of the key players in the industry. Like other cloud platforms offer various advantages such as management overhead reduction, cost minimization etc. Within its main services are: </p>
+
+<p align="center"><img src="./images/AWSservices.png"/></p>
+
  
 ## Table of Contents  
 [Headers](#headers)  
