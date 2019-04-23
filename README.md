@@ -14,13 +14,19 @@ By: Buse Özer and Sara Díaz
 <p align="justify"> Azure is a private and public cloud platform that offers a set of services all developed by Microsoft Inc. This services help IT specialist to build, deploy and manage applications.
 </p>
 
-### Products and Services
+### Services
 
-Its most popular products include: 
+Its most popular services include: 
 
 <p align="center"><img src="./images/azureproducts.png"/></p>
  
 <p align="justify"> By 2019, Azure counts with 54 regions to host its operations, more than any other cloud provider. Database products like SQL Azure DB are present in 46 of this locations (85% of the total). This gives clients the opportunity to choose a desired location according to their needs of response and latency times, as well as IT knowledge in the region, risk of natural disaster occurrence, etc. </p> 
+ 
+<p align="center"><img src="https://azurecomcdn.azureedge.net/cvt-a27fc75dcc932103683fbfcee92c51b694a67773a46466966b5fee3e80c103ce/images/shared/regions-map-large.svg"/></p>
+
+In general it divides its services in into two main groups - infrastructure and Platform Services: 
+
+<p align="center"><img src="./images/ServicesSchema.png"/></p>
  
 ## Table of Contents  
 [Headers](#headers)  
