@@ -27,6 +27,8 @@ Its most popular services include:
 In general it divides its services in into two main groups - infrastructure and Platform Services: 
 
 <p align="center"><img src="./images/ServicesSchema.png"/></p>
+
+The platform services are also supported by Security and Management services as well as a they can be deployed on hybrid cloud services (public and private clouds).
  
 ## Table of Contents  
 [Headers](#headers)  
