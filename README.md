@@ -18,7 +18,7 @@ By: Buse Özer and Sara Díaz
 
 Its most popular products include: 
 
-<p align="center"><img src="./images/AZservices.jpg"/></p>
+<p align="center"><img src="./images/azureprods.png"/></p>
  
 <p align="justify"> By 2019, Azure counts with 54 regions to host its operations, more than any other cloud provider. Database products like SQL Azure DB are present in 46 of this locations (85% of the total). This gives clients the opportunity to choose a desired location according to their needs of response and latency times, as well as IT knowledge in the region, risk of natural disaster occurrence, etc. </p> 
  
