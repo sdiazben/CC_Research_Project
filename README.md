@@ -60,7 +60,9 @@ On a higher level, the architecture depends on the clients needs. Azure has made
 
 ### Architecture 
 
+AWS bases its architecture on the following components, being one of the main ones the EC2 (Elastic Compute Cloud) which is the starting point for virtualization: 
 
+<p align="center"><img src="./images/AWSarch.png"/></p>
  
 ## Table of Contents  
 [Headers](#headers)  
