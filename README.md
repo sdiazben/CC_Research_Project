@@ -11,6 +11,8 @@ By: Buse Özer and Sara Díaz
 
 ## Microsoft Azure
 
+<p align="left"><img src="./images/azure.png"/></p>
+
 <p align="justify"> Azure is a private and public cloud platform that offers a set of services all developed by Microsoft Inc. This services help IT specialist to build, deploy and manage applications.
 </p>
  
