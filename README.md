@@ -49,6 +49,9 @@ To better understand these concept, Azure provides the following <a href="https:
 
 <p align="center"><img src="./images/AWSservices.png"/></p>
 
+<p align="justify"> AWS spans 61 Availability Zones within 20 geographic regions around the world, with announced plans for 15 more Availability Zones and five more Regions (Bahrain, Cape Town, Hong Kong SAR, Jakarta, and Milan). </p>
+
+<p align="center"><img src="https://d1.awsstatic.com/about-aws/regions/Global%20Infrastructure%20Map-Jakarta%20and%20Hong%20Kong_update.1fcad512779992000de22e2e3344c3839d2a8d6b.png"/></p>
  
 ## Table of Contents  
 [Headers](#headers)  
