@@ -30,11 +30,21 @@ In general it divides its services in into two main groups - infrastructure and 
 
 The platform services are also supported by Security and Management services as well as a they can be deployed on hybrid cloud services (public and private clouds).
 
+### Architecture
+
+<p align="justify"> Azure uses a technology called Virtualization which separates the coupling between a computer’s hardware and operating system by using a layer named a Hypervisor, which emulates a computer’s functions and CPU within virtual machines. These virtual machines can run both Windows and Linux operating systems and optimize the abstracted hardware. To better understand these concept, Azure provides the following video: </p>
+
+<p align="center"><img src="./images/awsArch.png"/></p>
+
+https://www.microsoft.com/en-us/videoplayer/embed/RE2ixGo
+
 ## Amazon Web Services (AWS)
 
-<p align="justify">  Amazon Web Services (AWS) is a cloud service platform, which provides services in different domains such as compute, storage, delivery and other functionality which help business to scale and grow. 
+<p align="justify">  Amazon Web Services (AWS) is a cloud service platform, which provides services in different domains such as compute, storage, delivery and other functionality which help business to scale and grow. </p>
+
+### Services
  
-AWS allows users to use different variety of services to create and deploy applications in the cloud platform. These services are designed in such a way that they work with each other and produce a scalable and efficient outcome. AWS was launched in 2006 and has been one of the key players in the industry. Like other cloud platforms offer various advantages such as management overhead reduction, cost minimization etc. Within its main services are: </p>
+<p align="justify"> AWS allows users to use different variety of services to create and deploy applications in the cloud platform. These services are designed in such a way that they work with each other and produce a scalable and efficient outcome. AWS was launched in 2006 and has been one of the key players in the industry. Like other cloud platforms offer various advantages such as management overhead reduction, cost minimization etc. Within its main services are: </p>
 
 <p align="center"><img src="./images/AWSservices.png"/></p>
 
