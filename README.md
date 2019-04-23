@@ -39,7 +39,7 @@ To better understand these concept, Azure provides the following <a href="https:
 
 <p align="justify"> Each of its data centers distributed around the world contains many racks which containing servers and each of this implements this Hypervisor technology to run multiple virtual machines. A network switch provides connectivity between the servers.  create it within the servers. After this the user can access it and all its functions. Each server within the rack runs a special piece of software called the Fabric Controller, which, at the same time, is connected to another software called the Orchestrator which manages every activity in Azure included, but not limited, to user requests. These request are created by using the web API, which is more popularly accedes through the Azure Portal (there are other ways to access it). The request is packaged and sent to the Fabric Controller. </p>
 
-On a higher level, the architecture depends on the clients needs. Azure has made available  <a href="https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/architectures">reference architectures</a>  to guide users.
+<p align="justify"> On a higher level, the architecture depends on the clients needs. Azure has made available  <a href="https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/architectures">reference architectures</a>  to guide users. </p>
 
 
 
@@ -51,18 +51,20 @@ On a higher level, the architecture depends on the clients needs. Azure has made
  
 <p align="justify"> AWS allows users to use different variety of services to create and deploy applications in the cloud platform. These services are designed in such a way that they work with each other and produce a scalable and efficient outcome. AWS was launched in 2006 and has been one of the key players in the industry. Like other cloud platforms offer various advantages such as management overhead reduction, cost minimization etc. Within its main services are: </p>
 
-<p align="center"><img src="./images/AWSservices.png"/></p>
+<p align="center"><img src="./images/AWSservices.jpg"/></p>
 
 <p align="justify"> AWS spans 61 Availability Zones within 20 geographic regions around the world, with announced plans for 15 more Availability Zones and five more Regions (Bahrain, Cape Town, Hong Kong SAR, Jakarta, and Milan): </p>
 
 <p align="center"><img src="https://d1.awsstatic.com/about-aws/regions/Global%20Infrastructure%20Map-Jakarta%20and%20Hong%20Kong_update.1fcad512779992000de22e2e3344c3839d2a8d6b.png"/></p>
-<p align="center"><img src="./images/regions.png"/>
 
 ### Architecture 
 
 AWS bases its architecture on the following components, being one of the main ones the EC2 (Elastic Compute Cloud) which is the starting point for virtualization: 
 
 <p align="center"><img src="./images/AWSarch.png"/></p>
+
+Then it combines with the foundation services seen above to create a general architecture. 
+
  
 ## Table of Contents  
 [Headers](#headers)  
