@@ -15,7 +15,7 @@ Service | AWS | Azure
 
 
 
-## EC2 (Elastic Compute Cloud) vs. VM (Virtual Machines)
+## Virtual Servers (IaaS)
 
 <p align="justify"> These are defined as infrastructure (IaaS) services that offer resizable compute capacity in the cloud. To do so, both provide virtual machines or instances (as its referred to in AWS) that contain virtual CPU, virtual memory, temporary storage, and networking capacity and give a customer the flexibility to choose the appropriate mix of resources for workloads. These can be persisted in Block Store (EBS), a block storage volumes service,  in the case of AWS; and Blob Storage, storage for unstructured data service, in the case of Azure. Additionally, both EC2 and VM offer six types of instances with different purposes: </p> 
 
@@ -29,3 +29,18 @@ Service | AWS | Azure
 Each has specific <a href= "https://araihan.wordpress.com/2018/08/02/amazon-ec2-and-azure-virtual-machine-instance-comparison/">references for these in both Windows and Linux OS. </a>
 
 <p align="justify"> When talking about the differences, the first one is that AWS user can configure their own VMs, chose a pre-configured operating template called Amazon Machine Image (<a href= "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html">AMI</a>) or even customize their own AMIs. In contrast, while Azure users choose the Virtual Hard Disk (<a href= "https://docs.microsoft.com/en-us/azure/virtual-machines/linux/managed-disks-overview">VHD</a>), equivalent to a machine instance, to create a VM; this can be can be pre-configured by Microsoft, the user or a third party. </p> 
+
+## Containers and orchestrators (CaaS)
+
+<p align="justify"> Containers, a popular alternative to VMs, are offered by both services in conjunction with its orchestrators (Kubernetes). While both offer a secure, reliable and scalable service for both Windows and Linux; each has advantages that make it better for given scenarios. </p> 
+
+<p align="justify"> ECS/EKS allows lightweight services to experience before moving to the cloud and its friendly with developers that don’t have an understanding of server infrastructure. However, it is potentially more expensive than other services. On the other side, Azure ACS/AKS are services better built for Windows developers and is more pricing friendly with AKS actually being free. However, the service has proven to be slower during deployments and doesn’t support hybrid containers.
+</p> 
+
+## Platforms (PaaS)
+
+<p align="justify"> On top of IaaS, providers have Platform as a Service (PaaS) which offers online platform for developers to deploy apps by matching the different components within the application with the different components in the infrastructure. Both offer similar fully managed PaaS that handle entire processes like capacity provisioning, load balancing, auto-scaling, and the monitoring of application performance with ease. Azure tools such as cloud services, container service, functions, batch, app services etc. while AWS also offers similar solutions with Elastic Beanstalk, Batch, Lambda, container service, among others. </p> 
+
+<p align="justify"> When looking at a higher level, both services cover almost the same frameworks – .Net, .Net Core, Node, Java, PHP, Python, Ruby, Docker; with the additional .Net Core support for Azure App Service. They also have very good DevOps capabilities having the same name for this service: </p> 
+
+
