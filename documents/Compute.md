@@ -11,7 +11,7 @@ Service | AWS | Azure
 **Containers and orchestrators (CaaS)**|<a href= "https://aws.amazon.com/ecs/features/">EC2 Container Service (ECS)</a></br><br><a href= "https://aws.amazon.com/eks/">Elastic Container Service for Kubernetes (EKS)</a></br>|<a href="https://docs.microsoft.com/en-us/azure/container-service/">Azure Container Service</a></br><br><a href= "https://azure.microsoft.com/en-gb/services/kubernetes-service/">Azure Kubernetes Service (AKS)</a></br>
 **Platforms (PaaS)**|<a href= "https://aws.amazon.com/elasticbeanstalk/">Elastic Beanstalk</a>|<a href= "https://azure.microsoft.com/en-gb/services/app-service/">App Service</a>
 **Functions (FaaS)**|<a href= "https://aws.amazon.com/lambda/">AWS Lambda</a>|<a href= "https://azure.microsoft.com/en-gb/blog/introducing-azure-functions/">Azure Functions</a>
-**Scalability**|<a href= "https://aws.amazon.com/autoscaling/">AWS Auto Scaling</a>|<a href= "https://azure.microsoft.com/en-gb/services/virtual-machine-scale-sets/">Virtual Machine Scale Sets</a><</br><br> <a href= "https://azure.microsoft.com/en-gb/features/autoscale/">Auto Scaling</a></br><br><a href= "https://docs.microsoft.com/en-us/azure/app-service/web-sites-scale">App Service Scale Capability (PAAS)</a></br>
+**Scalability**|<a href= "https://aws.amazon.com/autoscaling/">AWS Auto Scaling</a>|<a href= "https://azure.microsoft.com/en-gb/services/virtual-machine-scale-sets/">Virtual Machine Scale Sets</a></br><br> <a href= "https://azure.microsoft.com/en-gb/features/autoscale/">Auto Scaling</a></br><br><a href= "https://docs.microsoft.com/en-us/azure/app-service/web-sites-scale">App Service Scale Capability (PAAS)</a></br>
 
 
 
@@ -25,3 +25,7 @@ Service | AWS | Azure
 - Storage optimised: High disk throughput and IO
 - GPU: Specialized for heavy graphic rendering and video editing
 - High performance compute: fastest and most powerful CPU
+
+Each has specific <a href= "https://araihan.wordpress.com/2018/08/02/amazon-ec2-and-azure-virtual-machine-instance-comparison/">references for these in both Windows and Linux OS. </a>
+
+<p align="justify"> When talking about the differences, the first one is that AWS user can configure their own VMs, chose a pre-configured operating template called Amazon Machine Image (<a href= "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html">AMI</a>) or even customize their own AMIs. In contrast, while Azure users choose the Virtual Hard Disk (<a href= "https://docs.microsoft.com/en-us/azure/virtual-machines/linux/managed-disks-overview">VHD</a>), equivalent to a machine instance, to create a VM; this can be can be pre-configured by Microsoft, the user or a third party. </p> 
