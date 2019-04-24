@@ -72,12 +72,20 @@ Figure 8: AWS basic architecture by levels of abstraction and customer involveme
 
 <p align="justify"> It's important to know that this can be changed. Due to the different needs of its millions of customers, AWS requires a certain degree of flexibility in the services offered because there are many different patterns, use cases, and requirements to satisfy. Due to that many architecture layouts might be created. This is why it offers documentation on reference architecures in it's called <a href="https://aws.amazon.com/architecture/?awsf.quickstart-architecture-page-filter=highlight%23new">Architecture Center</a>; offering different arragements depending on the defined requirements.</p>
 
- 
-## Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+## Comparison Summary 
+
+Given the research done, the following comparison summary table was made: 
+
+To get a more detailed analysis at each of the components, the following resources are available to consult:
+
+## Components
+[Headers](#Market)  
+[Emphasis](#Compute)  
 ...snip...    
 <a name="headers"/>
 
+## Conclusions
+
+## References
   
  
