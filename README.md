@@ -79,8 +79,8 @@ Given the research done, the following comparison summary table was made:
 To get a more detailed analysis at each of the components, the following resources are available to consult:
 
 ## Components
-[Market](#Market)  
-[Compute](#Compute)   
+- [Market](https://github.com/sdiazben/Research-topic/blob/master/documents/Market.md) 
+- [Compute](#Compute)   
 <a name="headers"/>
 
 ## Conclusions
