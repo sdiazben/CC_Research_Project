@@ -66,8 +66,8 @@ AWS bases its architecture on the following components, being one of the main on
 
 This can also be seen given different levels of abstraction: 
 
-<p align="center"><img src="./images/abstraction.png"/></p>
-For the complete explanation of the diagram above, the following <a href="https://aws.amazon.com/blogs/architecture/compute-abstractions-on-aws-a-visual-story/">link</a></p> is provided by AWS documentation
+<p align="center"><img src="./images/abstraction.png"/>
+For the complete explanation of the diagram above, the following <a href="https://aws.amazon.com/blogs/architecture/compute-abstractions-on-aws-a-visual-story/">link</a> is provided by AWS documentation</p>
 
 <p align="justify">As seen, below EC2 there might be a EC2 bare metal instances that allow customers direct access to hardware. As said in the AWS website:</p>
 
