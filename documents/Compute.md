@@ -43,4 +43,23 @@ Each has specific <a href= "https://araihan.wordpress.com/2018/08/02/amazon-ec2-
 
 <p align="justify"> When looking at a higher level, both services cover almost the same frameworks – .Net, .Net Core, Node, Java, PHP, Python, Ruby, Docker; with the additional .Net Core support for Azure App Service. They also have very good DevOps capabilities having the same name for this service: </p> 
 
+<p align="center"><img src="https://github.com/sdiazben/Research-topic/blob/master/images/devopsazure.png"/></p>
+<p align="center">Figure 1: Azure DevOps schema</p>
+</br>
+<p align="center"><img src="https://github.com/sdiazben/Research-topic/blob/master/images/devopsAWS.jpg"/></p>
+<p align="center">Figure 2: AWS DevOps schema</p>
+
+If interested, here are some <a href= "http://flusharcade.com.au/aws-elastic-beanstalk-or-azure-app-service-part-1/">examples</a> on how they both work. 
+
+However, even with all this, some argue that AWS doesn’t many features in the app hosting side as Azure does.
+
+
+## Functions (FaaS)
+
+<p align="justify"> These services are meant to provide serverless computing, or FaaS (Functions-as-a-Service) is a form of cloud compute in which application developers depend on third party services to manage the server-side of operations, allowing them to focus on building applications on a function-by-function basis. The serverless platform manages the deployment, running and scaling of code and the provisioning, maintaining and scaling of servers. </p>
+
+<p align="justify"> Functions and Lambda are also quite similar in this department. Both Azure Functions and AWS Lambda support Node.js, Python and C#. Lambda further supports Python and Java and Azure offers extended support for F# and PHP; however, both continue to build their language portfolio. Also, they provide triggers that can be used to invoke functions on each of their platforms and their respective wider set of cloud services. </p>
+
+<p align="justify"> Talking about differences, in this case Lambda is considered to offer more services in terms of extending their functions into the cloud ecosystem, than Azure. Actually they are said to be the standard of FaaS in the market. However, the main current difference between them is that Microsoft’s service is open-sourced while Lambda is not, allowing users to deploy it on local servers or alternative cloud services. Each runs on a different execution platform: Azure Functions runs in a Windows environment, AWS Lambda is constructed from machine images, which run on Linux. Azure also offers an App Service plan aside of their Dynamic Service plan which is pay per function, being this the only option in Lambda. </p> 
+
 
