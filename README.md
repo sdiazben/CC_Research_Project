@@ -56,14 +56,16 @@ To better understand these concept, Azure provides the following <a href="https:
 <p align="justify"> AWS spans 61 Availability Zones within 20 geographic regions around the world, with announced plans for 15 more Availability Zones and five more Regions (Bahrain, Cape Town, Hong Kong SAR, Jakarta, and Milan): </p>
 
 <p align="center"><img src="https://d1.awsstatic.com/about-aws/regions/Global%20Infrastructure%20Map-Jakarta%20and%20Hong%20Kong_update.1fcad512779992000de22e2e3344c3839d2a8d6b.png"/></p>
+<p align="center"><img src="./images/regions.png"/></p>
 
 ### Architecture 
 
 AWS bases its architecture on the following components, being one of the main ones the EC2 (Elastic Compute Cloud) which is the starting point for virtualization: 
 
 <p align="center"><img src="./images/AWSarch.png"/></p>
+<p align="center"><img src="./images/AWSarch.png"/></p>
 
-Then it combines with the foundation services seen above to create a general architecture. 
+Then it combines with the foundation services seen above to create a general architecture. It's important to know that this can be changed. Due to the different needs of its millions of customers, AWS requires a certain degree of flexibility in the services offered because there are many different patterns, use cases, and requirements to satisfy. Due to that many architecture layouts might be created. This is why it offers documentation on reference architecures in it's called <a href="https://aws.amazon.com/architecture/?awsf.quickstart-architecture-page-filter=highlight%23new">Architecture Center</a>; offering different arragements depending on the defined requirements. 
 
  
 ## Table of Contents  
