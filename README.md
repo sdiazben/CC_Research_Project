@@ -65,7 +65,15 @@ AWS bases its architecture on the following components, being one of the main on
 <p align="center"><img src="./images/AWSarch.png"/></p>
 <p align="center"><img src="./images/AWSarch.png"/></p>
 
-Then it combines with the foundation services seen above to create a general architecture. It's important to know that this can be changed. Due to the different needs of its millions of customers, AWS requires a certain degree of flexibility in the services offered because there are many different patterns, use cases, and requirements to satisfy. Due to that many architecture layouts might be created. This is why it offers documentation on reference architecures in it's called <a href="https://aws.amazon.com/architecture/?awsf.quickstart-architecture-page-filter=highlight%23new">Architecture Center</a>; offering different arragements depending on the defined requirements. 
+This can also be seen given different levels of abstraction: 
+
+<p align="center"><img src="./images/abstraction.png"/></p>
+
+<p align="justify">As seen, below EC2 there might be a EC2 bare metal instances that allow customers direct access to hardware. As said in the AWS website:</p>
+
+> <p align="justify">“…. (AWS customers) wanted access to the physical resources for applications that take advantage of low-level hardware features such as performance counters and Intel® VT that are not always available or fully supported in virtualized environments, and also for applications intended to run directly on the hardware or licensed and supported for use in non-virtualized environments.”</p>
+
+<p align="justify"> It's important to know that this can be changed. Due to the different needs of its millions of customers, AWS requires a certain degree of flexibility in the services offered because there are many different patterns, use cases, and requirements to satisfy. Due to that many architecture layouts might be created. This is why it offers documentation on reference architecures in it's called <a href="https://aws.amazon.com/architecture/?awsf.quickstart-architecture-page-filter=highlight%23new">Architecture Center</a>; offering different arragements depending on the defined requirements.</p>
 
  
 ## Table of Contents  
