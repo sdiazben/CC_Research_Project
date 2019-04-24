@@ -58,7 +58,8 @@ Figure 4: Azure's basic architecture. To better understand these concept, Azure 
 
 AWS bases its architecture on the following components, being one of the main ones the EC2 (Elastic Compute Cloud) which is the starting point for virtualization: 
 
-<p align="center"><img src="./images/AWSarch.png"/>Figure 7: AWS basic architecture</p>
+<p align="center"><img src="./images/AWSarch.png"/></p>
+<p align="center">Figure 7: AWS basic architecture</p>
 
 This can also be seen given different levels of abstraction: 
 
