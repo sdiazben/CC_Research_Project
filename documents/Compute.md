@@ -11,7 +11,8 @@ Service | AWS | Azure
 **Containers and orchestrators (CaaS)**|<a href= "https://aws.amazon.com/ecs/features/">EC2 Container Service (ECS)</a></br><br><a href= "https://aws.amazon.com/eks/">Elastic Container Service for Kubernetes (EKS)</a></br>|<a href="https://docs.microsoft.com/en-us/azure/container-service/">Azure Container Service</a></br><br><a href= "https://azure.microsoft.com/en-gb/services/kubernetes-service/">Azure Kubernetes Service (AKS)</a></br>
 **Platforms (PaaS)**|<a href= "https://aws.amazon.com/elasticbeanstalk/">Elastic Beanstalk</a>|<a href= "https://azure.microsoft.com/en-gb/services/app-service/">App Service</a>
 **Functions (FaaS)**|<a href= "https://aws.amazon.com/lambda/">AWS Lambda</a>|<a href= "https://azure.microsoft.com/en-gb/blog/introducing-azure-functions/">Azure Functions</a>
-**Scalability**|<a href= "https://aws.amazon.com/autoscaling/">AWS Auto Scaling</a>|Virtual Machine Scale Sets </br> <br> Auto Scaling </br> <br>App Service Scale Capability (PAAS)</br>
+**Scalability**|<a href= "https://aws.amazon.com/autoscaling/">AWS Auto Scaling</a>|<a href= "https://azure.microsoft.com/en-gb/services/virtual-machine-scale-sets/">Virtual Machine Scale Sets</a><</br><br> <a href= "https://azure.microsoft.com/en-gb/features/autoscale/">Auto Scaling</a></br><br><a href= "https://docs.microsoft.com/en-us/azure/app-service/web-sites-scale">App Service Scale Capability (PAAS)</a></br>
+
 
 
 ## EC2 (Elastic Compute Cloud) vs. VM (Virtual Machines)
