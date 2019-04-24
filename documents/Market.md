@@ -4,5 +4,5 @@
 
 > AWS has been the market share leader in cloud IaaS for over 10 years
 
-<p align="center"><img src="./images/cis-q3181.jpg"/></p>
+<p align="center"><img src="https://github.com/sdiazben/Research-topic/blob/master/images/cis-q3181.jpg"/></p>
 <p align="center">Figure 1: Comparison of cloud vendors for Q3 of 2018</p>
