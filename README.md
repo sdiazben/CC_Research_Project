@@ -46,7 +46,8 @@ Figure 4: Azure's basic architecture. To better understand these concept, Azure 
  
 <p align="justify"> AWS allows users to use different variety of services to create and deploy applications in the cloud platform. These services are designed in such a way that they work with each other and produce a scalable and efficient outcome. AWS was launched in 2006 and has been one of the key players in the industry. Like other cloud platforms offer various advantages such as management overhead reduction, cost minimization etc. Within its main services are: </p>
 
-<p align="center"><img src="./images/AWSservices.png"/>Figure 5: AWS Services</p>
+<p align="center"><img src="./images/AWSservices.png"/></p>
+<p align="center">Figure 5: AWS Services</p>
 
 <p align="justify"> AWS spans 61 Availability Zones within 20 geographic regions around the world, with announced plans for 15 more Availability Zones and five more Regions (Bahrain, Cape Town, Hong Kong SAR, Jakarta, and Milan): </p>
 
