@@ -13,7 +13,7 @@ Service | AWS | Azure
 **Functions (FaaS)**|<a href= "https://aws.amazon.com/lambda/">AWS Lambda</a>|<a href= "https://azure.microsoft.com/en-gb/blog/introducing-azure-functions/">Azure Functions</a>
 **Scalability**|<a href= "https://aws.amazon.com/autoscaling/">AWS Auto Scaling</a>|<a href= "https://azure.microsoft.com/en-gb/services/virtual-machine-scale-sets/">Virtual Machine Scale Sets</a></br><br> <a href= "https://azure.microsoft.com/en-gb/features/autoscale/">Auto Scaling</a></br><br><a href= "https://docs.microsoft.com/en-us/azure/app-service/web-sites-scale">App Service Scale Capability (PAAS)</a></br>
 
-
+In the following section, the comparison of these services is furthered. 
 
 ## Virtual Servers (IaaS)
 
