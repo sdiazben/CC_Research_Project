@@ -9,6 +9,6 @@ This is shown in the following diagrams:
 <p align="center"><img src="https://github.com/sdiazben/Research-topic/blob/master/images/cis-q3181.jpg"/></p>
 <p align="center">Figure 1: Comparison of cloud vendors for Q3 of 2018</p>
 
-<p align="center"><img src="https://github.com/sdiazben/Research-topic/blob/master/images/vendors.jpg"/></p>
+<p align="center"><img src="https://github.com/sdiazben/Research-topic/blob/master/images/vendors.png"/></p>
 <p align="center">Figure 2: Growth of cloud vendors from 2017 to 2018</p>
 
