@@ -4,10 +4,7 @@ By: Buse Özer and Sara Díaz
 <p align="center"><img src="./images/awsVsAzure.jpg"/></p>
 
 <p align="justify">
- Nowadays the need of online resources in the cloud has become crucial for companies throughout different industries. These offer the advantage of being scalable and dynamical to arising and on-demand needs without having huge impact on the cost. Although many platforms have risen to offer these services, Microsoft Azure and Amazon AWS are among the main key players. But what differentiates them? Is one better than the other? When should a company use one or the other? This research project looks to answer this questions by first understanding each of them and then comparing their main features.
-</p>
-
-
+ Nowadays the need of online resources in the cloud has become crucial for companies throughout different industries. These offer the advantage of being scalable and dynamical to arising and on-demand needs without having huge impact on the cost. Although many platforms have risen to offer these services,</p> **Microsoft Azure** and **Amazon AWS** <p align="justify">are among the main key players. But what differentiates them? Is one better than the other? When should a company use one or the other? This research project looks to answer this questions by first understanding each of them and then comparing their main features.</p>
 
 ## Microsoft Azure
 
@@ -69,7 +66,7 @@ This can also be seen given different levels of abstraction:
 <p align="center"><img src="./images/abstraction.png"/>
 For the complete explanation of the diagram above, the following <a href="https://aws.amazon.com/blogs/architecture/compute-abstractions-on-aws-a-visual-story/">link</a> is provided by AWS documentation</p>
 
-<p align="justify">As seen, below EC2 there might be a EC2 bare metal instances that allow customers direct access to hardware. As said in the AWS website:</p>
+<p align="justify">As seen, below EC2 there might be a EC2 bare metal instances that allow customers direct access to hardware. As said in the <a href="https://aws.amazon.com/blogs/architecture/compute-abstractions-on-aws-a-visual-story/">AWS website documentation</a>:</p>
 
 > <p align="justify">“…. (AWS customers) wanted access to the physical resources for applications that take advantage of low-level hardware features such as performance counters and Intel® VT that are not always available or fully supported in virtualized environments, and also for applications intended to run directly on the hardware or licensed and supported for use in non-virtualized environments.”</p> 
 
