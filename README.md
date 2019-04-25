@@ -92,11 +92,16 @@ Attribute | Comparison
 **Database** |  <p align="justify">Both AWS and Azure support relational and NoSQL databases.</p>
 **Big Data and Analytics Platforms** |  <p align="justify"><br>Both providers offer similar building blocks; data processing, data orchestration, streaming analytics, machine learning and visualisations.</br></br><br>Azure is believed to be strongest in visualization as it has more trajectory specifically with PowerBI.</br></br><br>Also, Azure is very strong in the machine learning space, offering pre-trained models and is the only provider to offer the capability for organisations to track and document their data assets. </br></p>
 
-To get a more detailed analysis at each of the components, the following resources are available to consult:
+To get a more detailed analysis of some of the above components, the following resources are available to consult:
 
 ## Components
-- [Market](https://github.com/sdiazben/Research-topic/blob/master/documents/Market.md) 
-- [Compute](#Compute)   
+1. [Market](https://github.com/sdiazben/Research-topic/blob/master/documents/Market.md) 
+2. [Pricing](https://github.com/sdiazben/Research-topic/blob/master/documents/Pricing.md) 
+3. [Compute](https://github.com/sdiazben/Research-topic/blob/master/documents/Compute.md)   
+4. [Storage](https://github.com/sdiazben/Research-topic/blob/master/documents/Storage.md)
+5. [Network](https://github.com/sdiazben/Research-topic/blob/master/documents/Network.md)
+6. [Database](https://github.com/sdiazben/Research-topic/blob/master/documents/Database.md)
+7. [Big data & Analytics](https://github.com/sdiazben/Research-topic/blob/master/documents/Big data & Analytics.md)
 <a name="headers"/>
 
 ## Conclusions
