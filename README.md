@@ -95,13 +95,13 @@ Attribute | Comparison
 To get a more detailed analysis of some of the above components, the following resources are available to consult:
 
 ## Components
-1. [Market](https://github.com/sdiazben/Research-topic/blob/master/documents/Market.md) 
-2. [Pricing](https://github.com/sdiazben/Research-topic/blob/master/documents/Pricing.md) 
-3. [Compute](https://github.com/sdiazben/Research-topic/blob/master/documents/Compute.md)   
-4. [Storage](https://github.com/sdiazben/Research-topic/blob/master/documents/Storage.md)
-5. [Network](https://github.com/sdiazben/Research-topic/blob/master/documents/Network.md)
-6. [Database](https://github.com/sdiazben/Research-topic/blob/master/documents/Database.md)
-7. [Big data & Analytics](https://github.com/sdiazben/Research-topic/blob/master/documents/Big data & Analytics.md)
+1.  [Market](https://github.com/sdiazben/Research-topic/blob/master/documents/Market.md) 
+2.  [Pricing](https://github.com/sdiazben/Research-topic/blob/master/documents/Pricing.md) 
+3.  [Compute](https://github.com/sdiazben/Research-topic/blob/master/documents/Compute.md)   
+4.  [Storage](https://github.com/sdiazben/Research-topic/blob/master/documents/Storage.md)
+5.  [Network](https://github.com/sdiazben/Research-topic/blob/master/documents/Network.md)
+6.  [Database](https://github.com/sdiazben/Research-topic/blob/master/documents/Database.md)
+7.  [Big data & Analytics](https://github.com/sdiazben/Research-topic/blob/master/documents/Big%20data%20%26%20Analytics.md)
 <a name="headers"/>
 
 ## Conclusions
