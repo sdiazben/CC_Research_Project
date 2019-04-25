@@ -51,7 +51,7 @@ Both AWS and Azure offer a ‘free tier’ service for new and initial subscribe
 
   The prices are very similar for both options. 
 
--  **Reserve-and-pay-less**: <p align="justify"> 
+-  **Reserve-and-pay-less**: 
  
    - <p align="justify"> AWS: Reserve an instance, under the schema Reserved Instance (RI), for 1 or 3 years with upfront cost based on use. RI offers discounted hourly rates and capacity reservation for its EC2 and RDS services. With it, a subscriber can reserve a resource and can save up to 75% of total billing costs in the long run. </p>
    - <p align="justify"> Azure: They also allow an RI schema when subscribers sign up for one to three-year terms for Windows and Linux virtual machines (VMs). This allows savings up to 72%. Additionally, there’s added flexibility as they allow to cancel the Azure RI subscription at any time and return the remaining unused RI to Microsoft for an early termination fee. </p>
@@ -66,5 +66,10 @@ Both AWS and Azure offer a ‘free tier’ service for new and initial subscribe
       | Highmem 2 vCPU no local disk  |        $850       |         $683        |             $56            |              $43             |
       | Highcpu 2 vCPU w Local SSD    |        $666       |         $543        |            $178            |             $136             |
       | Highcpu 2 vCPU no local disk  |        $543       |         $543        |            $136            |             $136             |      
+
+    Azure offers in average better-discounted rates for all compute instances. 
+    
+-  **Use-more-and-pay-less**: 
+<p align="justify"> Additionally, for AWS there’s another sub-mode which gives discounts based on the subscriber’s usage. Subscribers can benefit from the economies of scale, allowing their businesses to grow while costs are kept relatively under control. For EC2, the discount can go up to 10% if more is reserved: </p>
 
 
