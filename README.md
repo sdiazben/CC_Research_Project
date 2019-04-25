@@ -123,9 +123,22 @@ At the end of the day, both Azure and AWS offer very similar services at competi
 
 
 ## References
+<p> Ferre, M. R. (2019, April 16). Compute Abstractions on AWS: A Visual Story | Amazon Web Services. Retrieved from https://aws.amazon.com/blogs/architecture/compute-abstractions-on-aws-a-visual-story/</p>
+<p> Comparing Kubernetes Services on AWS vs. Azure vs. GCP. (2019, March 15). Retrieved from https://www.sumologic.com/blog/kubernetes-aws-azure-gcp/</p>
+<p> Sharma, A. (2019, March 28). Battle Of BI Tools: AWS QuickSight Vs Power BI. Retrieved from https://www.analyticsindiamag.com/battle-of-bi-tools-aws-quicksight-vs-power-bi/</p>
+<p> Urdhwareshe, R. (2018, October 12). Amazon EMR and Azure HDInsight: A Comparison. Retrieved from https://www.cuelogic.com/blog/amazon-emr-and-azure-hdinsight-a-comparison </p>
+<p> (n.d.). Retrieved from http://www.devx.com/blog/dev_issues/comparing-analytics-platforms-azure-vs.-aws-part-3.html</p>
+<p> (n.d.). Retrieved from https://www.rightscale.com/blog/rightscale-news/compare-top-public-cloud-providers-aws-vs-azure-vs-google</p>
+<p> Edureka! (2017, April 05). AWS vs Azure | Difference Between Microsoft Azure and Amazon AWS | AWS Training | Edureka. Retrieved from https://www.youtube.com/watch?v=m7Eh5Eu56Dw </p>
+<p> Microsoft Azure vs Amazon Web Services | Find Out Top 22 Diffrences. (2019, April 01). Retrieved from https://www.educba.com/microsoft-azure-vs-amazon-web-services/</p>
+<p> An In-Depth Comparison Between Azure App Service and AWS Elastic Beanstalk. (n.d.). Retrieved from https://www.cabotsolutions.com/an-in-depth-comparison-between-azure-app-service-and-aws-elastic-beanstalk</p>
+<p> Anna. (2018, December 14). Members. Retrieved from https://www.bizety.com/2018/12/14/microsoft-azure-functions-vs-aws-lamdba/</p>
+<p> Manmohan. (n.d.). Microsoft Azure vs Amazon AWS: Comparison Between Two Cloud Computing Giants. Retrieved from http://www.evontech.com/what-we-are-saying/entry/microsoft-azure-vs-amazon-aws-comparison-between-two-cloud-computing-giants.html</p>
+<p> What is Cloud Networking? How the Cloud is Changing Networking. (n.d.). Retrieved from https://www.citrix.com/glossary/cloud-networking.html </p>
+<p> Azure vs. AWS: Key Differences. (n.d.). Retrieved from https://www.guru99.com/azure-vs-aws.html</p>
+<p> Luijbregts, B. (2017, October 05). Understanding Azure Data Storage Options - DZone Cloud. Retrieved from https://dzone.com/articles/understanding-azure-data-storage-options</p>
+<p> Azure vs. AWS Analytics and Big Data Services Comparison. (2018, March 27). Retrieved from https://thomaslarock.com/2018/03/azure-vs-aws-analytics-and-big-data-services-comparison/</p>
+<p> Mindmajix. (2018, June 18). Amazon Web Services - Basic Architecture. Retrieved from https://mindmajix.com/aws-architecture-diagrams-solution</p>
 
-Edureka! (2017, April 05). AWS vs Azure | Difference Between Microsoft Azure and Amazon AWS | AWS Training | Edureka. Retrieved from [youtube](https://www.youtube.com/watch?v=m7Eh5Eu56Dw)
-Microsoft Azure vs Amazon Web Services | Find Out Top 22 Diffrences. (2019, April 01). Retrieved from https://www.educba.com/microsoft-azure-vs-amazon-web-services/
-An In-Depth Comparison Between Azure App Service and AWS Elastic Beanstalk. (n.d.). Retrieved from [https://www.cabotsolutions.com/an-in-depth-comparison-between-azure-app-service-and-aws-elastic-beanstalk]
   
  
