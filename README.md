@@ -92,9 +92,11 @@ Attribute | Comparison
 **Database** |  <p align="justify">Both AWS and Azure support relational and NoSQL databases.</p>
 **Big Data and Analytics Platforms** |  <p align="justify"><br>Both providers offer similar building blocks; data processing, data orchestration, streaming analytics, machine learning and visualisations.</br></br><br>Azure is believed to be strongest in visualization as it has more trajectory specifically with PowerBI.</br></br><br>Also, Azure is very strong in the machine learning space, offering pre-trained models and is the only provider to offer the capability for organisations to track and document their data assets. </br></p>
 
-To get a more detailed analysis of some of the above components, the following resources are available to consult:
+
 
 ## Components
+To get a more detailed analysis of some of the above components, the following resources are available to consult:
+
 1.  [Market](https://github.com/sdiazben/Research-topic/blob/master/documents/Market.md) 
 2.  [Pricing](https://github.com/sdiazben/Research-topic/blob/master/documents/Pricing.md) 
 3.  [Compute](https://github.com/sdiazben/Research-topic/blob/master/documents/Compute.md)   
@@ -105,6 +107,20 @@ To get a more detailed analysis of some of the above components, the following r
 <a name="headers"/>
 
 ## Conclusions
+
+As a conclusion, although both cloud providers offer similar capabilities in terms of services, there are slight differences: 
+
+1) <p align="justify">AWS has the biggest market share mainly due to its pioneering status and its continuous evolution. However, Azure captures clientele due to previous ties with their Microsoft products. 
+2) <p align="justify">Microsoft is more user-friendly to non-technical backgrounds. AWS is more suitable for developers with deeper technical knowledge, as it allows flexibility to configure and manage services.
+Azure offer better support to provide movement between the cloud and on-premise data centers; AWS is still relatively new on this area. </p>
+3) <p align="justify">AWS aligns with Linux and open source projects. </p>
+4) <p align="justify">Azure offers better discounts for long-term contracts.</p>
+5) <p align="justify">Azure has 54 regions in 140 countries, more than any other cloud provider including AWS, which has 20 in 6) countries. </p>
+7) <p align="justify">Azure provides security using defined roles with permission to control accessibility, Azure does not have customization on user level, permission can be assigned to whole account.</p>
+8) <p align="justify">Lastly, Amazon offers many products which can sometimes be a disadvantage because it is hard to be aware of all services and makes it complicated. However it does not change the truth that it has rich collections of tools and services and massive scale which attracts many customers. Microsoft has begun to bridge the gap of maturity and offering the widest range of functionality, between the two. With its plans to strengthen ties with its on-premise software and ongoing investment in building out the Azure cloud platform, it will continue to bridge that gap. </p>
+
+At the end of the day, both Azure and AWS offer very similar services at competitive pricing, so it is not necessarily a matter of one provider being better than the other; it is about choosing the solution that adopts best. 
+
 
 ## References
   
