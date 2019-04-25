@@ -125,6 +125,7 @@ At the end of the day, both Azure and AWS offer very similar services at competi
 ## References
 
 Edureka! (2017, April 05). AWS vs Azure | Difference Between Microsoft Azure and Amazon AWS | AWS Training | Edureka. Retrieved from [youtube](https://www.youtube.com/watch?v=m7Eh5Eu56Dw)
-
+Microsoft Azure vs Amazon Web Services | Find Out Top 22 Diffrences. (2019, April 01). Retrieved from https://www.educba.com/microsoft-azure-vs-amazon-web-services/
+An In-Depth Comparison Between Azure App Service and AWS Elastic Beanstalk. (n.d.). Retrieved from [https://www.cabotsolutions.com/an-in-depth-comparison-between-azure-app-service-and-aws-elastic-beanstalk]
   
  
