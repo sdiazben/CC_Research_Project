@@ -70,6 +70,8 @@ Both AWS and Azure offer a ‘free tier’ service for new and initial subscribe
     Azure offers in average better-discounted rates for all compute instances. 
     
 -  **Use-more-and-pay-less**: 
+
 <p align="justify"> Additionally, for AWS there’s another sub-mode which gives discounts based on the subscriber’s usage. Subscribers can benefit from the economies of scale, allowing their businesses to grow while costs are kept relatively under control. For EC2, the discount can go up to 10% if more is reserved: </p>
 
-
+<p align="center"><img src="https://github.com/sdiazben/Research-topic/blob/master/images/AWSfarepic.png"/></p>
+<p align="center">Figure 1: AWS fares given different storage sizes</p>
