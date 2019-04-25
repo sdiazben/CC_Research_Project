@@ -123,5 +123,8 @@ At the end of the day, both Azure and AWS offer very similar services at competi
 
 
 ## References
+
+Edureka! (2017, April 05). AWS vs Azure | Difference Between Microsoft Azure and Amazon AWS | AWS Training | Edureka. Retrieved from [youtube](https://www.youtube.com/watch?v=m7Eh5Eu56Dw)
+
   
  
