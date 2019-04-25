@@ -19,7 +19,7 @@ For Azure:
 -  Free Subscription (see below) 
 
 -  <p align="justify">Azure Student subscription: the same idea as the free trial but it's directed to students, it lasts for 12 months and US $100 credit is given </p>
--  <p align="justify">Azure Enterprise Agreement: provides flexibility for enterprise level clients to get software licenses and services with included discounts. It's the consensus in the market that Microsoft Azure is, over Amazon Web Services (AWS), the most trusted   cloud for enterprise and hybrid infrastructure.</p>
+-  <p align="justify">Azure Enterprise Agreement: provides flexibility for enterprise level clients to get software licenses and services with included discounts.</p>
 
 For AWS: 
 -  Free Tier (see below) 
