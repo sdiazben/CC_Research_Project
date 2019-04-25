@@ -76,6 +76,19 @@ Figure 8: AWS basic architecture by levels of abstraction and customer involveme
 
 Given the research done, the following comparison summary table was made: 
 
+Attribute | Comparison
+--------| ----
+**Trajectory** | AWS is the pioneer being launched in 2006 (4 years prior to Azure)
+**Availability Zones** | <p align="justify">Azure has 54 regions in 140 countries, more than any other cloud provider including AWS, which has 20 in 61 countries. </p>
+**User-friendliness** | <p align="justify">The general consensus is that Azure is more user-friendly and easy-to-follow for crowds without technical background than AWS. Following this, AWS is said to be more developer-friendly. </p>
+**Clients** | <p align="justify">Both companies cater to a high amount of companies (many which are reported in Forbes 500), however AWS maintains the lead as the pioneer while Azure bases its client capture on their existing relation to Microsoft products. </p>
+**Compliance** | <p align="justify">Both of them have comparable amounts of compliant offerings, having the same level of security and data protection. </p>
+**Hybrid Cloud Capabilities** | <p align="justify">Both of them have comparable amounts of compliant offerings, having the same level of security and data protection. </p>
+**Market** | <p align="justify">AWS has 32% of the whole cloud market while Azure stands with 16% by the end of 2018. However, Azure grew the most out of the more with a figure of +76% vs +46.3% from AWS </p>
+**Pricing** |  <p align="justify">Both have driven down their prices and continue to use their scale to achieve low costs. Azure shows to offer better discount rates for long term contracts (1-3 years). It also offers the enterprise subscription, to cater to specific needs of this client segment by offering discounts for software licenses and services</p>
+**Compute (IaaS, Containers, PaaS, Serverless, Scalability)** |  <p align="justify"><br>Comparable services with minor differences in all these services.</br></br><br>AWS has EC2 (IaaS), ECS & EKS (Container management), Elastic Beanstalk(Paas), Lambda (Serverless) and AWS Auto Scaling.</br></br><br>Azure has VM (IaaS), Azure Container Service & AKS (Containers), App Service (PaaS), Functions (Serverless), and AutoScaling. </br>
+</p>
+
 To get a more detailed analysis at each of the components, the following resources are available to consult:
 
 ## Components
