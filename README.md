@@ -110,7 +110,7 @@ To get a more detailed analysis of some of the above components, the following r
 
 As a conclusion, although both cloud providers offer similar capabilities in terms of services, there are slight differences: 
 
-1) <p align="justify">AWS has the biggest market share mainly due to its pioneering status and its continuous evolution. However, Azure captures clientele due to previous ties with their Microsoft products. 
+1. <p align="justify">AWS has the biggest market share mainly due to its pioneering status and its continuous evolution. However, Azure captures clientele due to previous ties with their Microsoft products. 
 2) <p align="justify">Microsoft is more user-friendly to non-technical backgrounds. AWS is more suitable for developers with deeper technical knowledge, as it allows flexibility to configure and manage services.
 3)  <p align="justify"> Azure offer better support to provide movement between the cloud and on-premise data centers; AWS is still relatively new on this area. </p>
 4) <p align="justify">AWS aligns with Linux and open source projects. </p>
