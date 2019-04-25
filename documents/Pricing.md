@@ -57,5 +57,14 @@ Both AWS and Azure offer a ‘free tier’ service for new and initial subscribe
    - <p align="justify"> Azure: They also allow an RI schema when subscribers sign up for one to three-year terms for Windows and Linux virtual machines (VMs). This allows savings up to 72%. Additionally, there’s added flexibility as they allow to cancel the Azure RI subscription at any time and return the remaining unused RI to Microsoft for an early termination fee. </p>
    
     <p align="justify"> To get the benefit of these options, subscribers need to consider many different factors: Historical usage (by region, instance type, etc.), steady-state vs. part-time usage, usage growth or decline, probability of switching cloud service providers, the alternative computing models like serverless, containers, etc. Here’s a table with the cost per year and per GB of memory given instances in varying levels of computing power: </p>
+    
+      |         VM Type  | AWS 1 Y RI Annual | Azure 1 Y RI Annual | AWS 1 Y RI Annual / GB RAM | Azure 1 Y RI Annual / GB RAM|
+      |:-----------------------------:|:-----------------:|:-------------------:|:--------------------------:|:--------------:|
+      | Standard 2 vCPU w Local SSD |        $867       |         $508        |            $116            |              $64             |
+      | Standard 2 vCPU no local disk |        $622       |         $508        |             $78            |              $64             |
+      | Highmem 2 vCPU w Local SSD    |        $946       |         $683        |             $63            |              $43             |
+      | Highmem 2 vCPU no local disk  |        $850       |         $683        |             $56            |              $43             |
+      | Highcpu 2 vCPU w Local SSD    |        $666       |         $543        |            $178            |             $136             |
+      | Highcpu 2 vCPU no local disk  |        $543       |         $543        |            $136            |             $136             |      
 
 
