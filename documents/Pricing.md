@@ -40,14 +40,22 @@ Both AWS and Azure offer a ‘free tier’ service for new and initial subscribe
 
 - **On demand**: <p align="justify"> The two providers offer pay-per-use without upfront cost. These instances work best for applications that have short-term, irregular workloads but critical enough as to not be interrupted. These are most useful during the testing or development phase of applications. The following table shows the cost per hour and per GB of memory given instances in varying levels of computing power:</p> 
 
-| VM Type                       | AWS OD Hourly | Azure OD Hourly | AWS OD / GB RAM | Azure OD / GB RAM |
-|-------------------------------|---------------|-----------------|-----------------|-------------------|
-| Standard 2 vCPU w Local SSD   |     $0.13     |      $0.10      |      $0.02      |       $0.01       |
-| Standard 2 vCPU no local disk |     $0.10     |      $0.10      |      $0.01      |       $0.01       |
-| Highmem 2 vCPU w Local SSD    |     $0.17     |      $0.13      |      $0.01      |       $0.01       |
-| Highmem 2 vCPU no local disk  |     $0.13     |      $0.13      |      $0.01      |       $0.01       |
-| Highcpu 2 vCPU w Local SSD    |     $0.11     |      $0.09      |      $0.03      |       $0.02       |
-| Highcpu 2 vCPU no local disk  |     $0.09     |      $0.09      |      $0.02      |       $0.02       |
+  |            VM Type            | AWS OD Hourly | Azure OD Hourly | AWS OD / GB RAM | Azure OD / GB RAM |
+  |:-----------------------------:|:-------------:|:---------------:|:---------------:|:-----------------:|
+  | Standard 2 vCPU w Local SSD   |     $0.13     |      $0.10      |      $0.02      |       $0.01       |
+  | Standard 2 vCPU no local disk |     $0.10     |      $0.10      |      $0.01      |       $0.01       |
+  | Highmem 2 vCPU w Local SSD    |     $0.17     |      $0.13      |      $0.01      |       $0.01       |
+  | Highmem 2 vCPU no local disk  |     $0.13     |      $0.13      |      $0.01      |       $0.01       |
+  | Highcpu 2 vCPU w Local SSD    |     $0.11     |      $0.09      |      $0.03      |       $0.02       |
+  | Highcpu 2 vCPU no local disk  |     $0.09     |      $0.09      |      $0.02      |       $0.02       |
 
--  **On demand**: <p align="justify"> 
+  The prices are very similar for both options. 
+
+-  **Reserve-and-pay-less**: <p align="justify"> 
+ 
+   - <p align="justify"> AWS: Reserve an instance, under the schema Reserved Instance (RI), for 1 or 3 years with upfront cost based on use. RI offers discounted hourly rates and capacity reservation for its EC2 and RDS services. With it, a subscriber can reserve a resource and can save up to 75% of total billing costs in the long run. </p>
+   - <p align="justify"> Azure: They also allow an RI schema when subscribers sign up for one to three-year terms for Windows and Linux virtual machines (VMs). This allows savings up to 72%. Additionally, there’s added flexibility as they allow to cancel the Azure RI subscription at any time and return the remaining unused RI to Microsoft for an early termination fee. </p>
+   
+    <p align="justify"> To get the benefit of these options, subscribers need to consider many different factors: Historical usage (by region, instance type, etc.), steady-state vs. part-time usage, usage growth or decline, probability of switching cloud service providers, the alternative computing models like serverless, containers, etc. Here’s a table with the cost per year and per GB of memory given instances in varying levels of computing power: </p>
+
 
